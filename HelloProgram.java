@@ -1,4 +1,4 @@
-Class {
+kkkkkkkClass {
 Public void main (string args []){
 
   
